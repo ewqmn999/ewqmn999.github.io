@@ -1,5 +1,5 @@
 ﻿山东移动,#genre#
-CCTV1高清cs,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
+CCTV1高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 CCTV2高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
 CCTV-3高清,http://hdtv.lzu6.edu.cn/hls/cctv3hd.m3u8,http://itv.ahau.edu.cn/hls/cctv3.m3u8,http://tv.sau.edu.cn/cctv3hd.m3u8
 CCTV4高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
